@@ -8,3 +8,5 @@
 Иконки, используется у нас на проекте https://icomoon.io/
 
 Как подключить шрифтовые иконки на сайт (видео для начинающих) https://youtu.be/msSumdsIxrY
+
+Стиль кода .html academy https://codeguide.academy/html-css.html
